@@ -1,4 +1,5 @@
 = Copy of RailsCast Authentication tutorial
+http://railscasts.com/episodes/250-authentication-from-scratch-revised?view=asciicast
 
 Run these commands to try it out.
 
